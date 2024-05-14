@@ -24,7 +24,7 @@
 body{
     background-color: #f2f2f2;
     overflow-x: hidden;
-    background-image: url(".images/IMG-20230918-WA0048.jpg");
+    background-image: url("IMG-20230918-WA0048.jpg");
 }
 footer{
     width: 60%;
